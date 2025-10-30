@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website built with Next.js 16, showcasing my projects, skills, and experience as a Full Stack Developer and Software Data Integration Engineer.
 
-![Portfolio Preview](./public/professional-developer-portrait.png)
-
 ## ✨ Features
 
 - 🎨 **Modern Design** - Clean and professional UI with smooth animations
@@ -166,9 +164,9 @@ Contributions, issues, and feature requests are welcome!
 
 - Full Stack Developer
 - Software Data Integration Engineer
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin]
-- 🐙 GitHub: [@your-username]
+- 📧 Email: [aditya.l.yhuda@gmail.com]
+- 💼 LinkedIn: [[adityaly](https://www.linkedin.com/in/aditya-laksita-yhuda-9b4ba7176/)]
+- 🐙 GitHub: [[@aditya-ly](https://github.com/aditya-ly)]
 
 ## 🌟 Show Your Support
 
